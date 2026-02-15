@@ -24,4 +24,4 @@ AI-assisted inbound lead scoring with deterministic fallback, hot-lead alerts, C
 5. Run a manual execution test before enabling schedule/webhook traffic.
 
 ## Live Demo
-- https://jeffery-addae-portfolio-web.vercel.app/projects/ai-powered-lead-intake-qualification-system
+- https://jefferyaddae.it.com/projects/ai-powered-lead-intake-qualification-system
